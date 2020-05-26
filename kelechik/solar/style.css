@@ -1,0 +1,106 @@
+/* Here are some image links to use:
+https://cdn.pixabay.com/photo/2015/10/12/14/59/milky-way-984050_960_720.jpg
+https://cdn.pixabay.com/photo/2016/03/09/15/18/stars-1246590_960_720.jpg
+https://cdn.pixabay.com/photo/2017/03/27/14/31/astronomy-2179083_960_720.jpg
+*/
+
+.header {
+  padding: 30px;
+  margin: 0;
+  text-align: center;
+  color: white;
+  background-color: #333;
+  background-image: url(https://cdn.pixabay.com/photo/2016/03/09/15/18/stars-1246590_960_720.jpg);
+}
+.section {
+  padding: 20px;
+  margin: 20px;
+  background-color: #eee;
+}
+.sub-section {
+  padding: 10px;
+  margin: 20px;
+  background-color: white;
+}
+.maroon-border {
+  border: 3px solid maroon;
+}
+.gold-border {
+  border: 3px solid gold;
+}
+.blue-border {
+  border: 3px solid blue;
+}
+.orange-border {
+  border: 3px solid orange;
+}
+.cyan-border {
+  border: 3px solid cyan;
+}
+.red-border {
+  border: 3px solid red;
+}
+.green-border {
+  border: 3px solid green;
+}
+.purple-border {
+  border: 3px solid purple;
+}
+.brown-border {
+  border: 3px solid brown;
+}
+.footer {
+  background-color: #333;
+  margin: 0;
+  padding: 20px;
+  color: white;
+  text-align: center;
+}
+a {
+  color: white;
+}
+.nav-bar ul {
+  background-color:green;
+  text-decoration:none;
+  padding:40px;
+}
+.nav-bar li {
+  list-style-type:none;
+  display:inline;
+}
+.nav-bar li a {
+  text-decoration:none;
+  padding:30px;
+  margin:0px;
+}
+ .nav-bar a:hover {
+  border-color:blue;
+  border-style:solid;
+  border-width:3px;
+  background-color:lime;
+}
+a:hover {
+  border-color:red;
+  border-width:4px;
+  border-style:solid;
+}
+td a:hover {
+  border-color:blue;
+  border-width:4px;
+  padding:0px;
+  border-style:solid;
+}
+body {
+  margin:0px;
+}
+.header h1 {
+  font-size:70px;
+  margin-bottom:2px;
+}
+.header p {
+  font-size:30px;
+  margin-top:2px;
+}
+li a {
+  color:purple;
+}
